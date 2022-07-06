@@ -1,0 +1,22 @@
+{
+  "name": "travlr",
+  "version": "1.0.0",
+  "description": "Travlr Getaways",
+  "author": "SNHU James <james.lawson2@snhu.edu>",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "hbs": "^4.1.2",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.9.2",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  }
+}
